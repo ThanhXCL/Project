@@ -1,1 +1,1 @@
-# Du-an
+# Game Rock-Paper-Scissors
