@@ -1,3 +1,4 @@
+#GROUP 20
 # Game Rock-Paper-Scissors sữ dụng kỹ thuật lập trình Socket theo mô hình Multi Client-Server
 ## Danh sách thành viên đóng góp cho dự án
 | STT | Họ và Tên | MSSV |
